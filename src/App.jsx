@@ -232,7 +232,7 @@ export default function App() {
         <span>·</span>
         <span>Descrivi i tuoi dati in italiano</span>
         <span>·</span>
-        <a href="https://cristianporco.it/app/schemaexpress/" target="_blank" rel="noopener">cristianporco.it</a>
+        cristianporco.it
       </footer>
 
       {editingTable && (
